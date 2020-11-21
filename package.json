@@ -1,0 +1,50 @@
+{
+  "name": "react-native-plane",
+  "version": "0.0.0",
+  "description": "Implement a draggable and zoomable 2d plane with ~60fps in react-native and expo.",
+  "main": "src/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint --ext .tsx --ext .jsx --ext .js --ext .ts src/",
+    "format": "prettier --check src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulsp94/react-native-plane.git"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "plane",
+    "2d",
+    "canvas",
+    "svg"
+  ],
+  "author": "Paul Spende & Samuel Will",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulsp94/react-native-plane/issues"
+  },
+  "homepage": "https://github.com/paulsp94/react-native-plane#readme",
+  "dependencies": {
+    "@timohausmann/quadtree-js": "^1.2.3",
+    "react": "^17.0.1",
+    "react-native": "^0.63.3",
+    "react-native-gesture-handler": "^1.8.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.8.1",
+    "@typescript-eslint/parser": "^4.8.1",
+    "eslint": "^7.14.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.2.0"
+  }
+}
