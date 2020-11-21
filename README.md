@@ -16,6 +16,11 @@ Using yarn:
 
 ## Roadmap
 
+- Implement Drag and Drop
+- Add isReactComponent Checker
+- Add ComponenPosition Props
+- Add dynamic screenview rendering
+
 ## Contributors
 
 <a href="url"><img src="https://github.com/paulsp94.png?size=80" height="auto" width="80" style="border-radius:50%"></a>
