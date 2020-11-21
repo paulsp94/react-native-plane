@@ -23,8 +23,11 @@ Using yarn:
 
 ## Contributors
 
-<a href="url"><img src="https://github.com/paulsp94.png?size=80" height="auto" width="80" style="border-radius:50%"></a>
-<a href="url"><img src="https://github.com/willsamu.png?size=80" height="auto" width="80" style="border-radius:50%"></a>
+<a href="https://github.com/paulsp94/react-native-plane/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=paulsp94/react-native-plane" />
+</a>
+
+Made with [contributors-img](https://contributors-img.web.app).
 
 ## License
 
